@@ -1,0 +1,4 @@
+<archimate:Principle
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="I Workflow presenti nel FEU NON SONO delle SAGA e NON gestiscono compensazioni. Sono finalizzati a costruire una interfaccia WEB a micro elementi"
+    id="18e7db2c-9056-4a97-a479-b35f9e1fb9d8"/>
