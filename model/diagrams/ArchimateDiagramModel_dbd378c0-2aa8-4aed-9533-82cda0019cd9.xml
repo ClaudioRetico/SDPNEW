@@ -6,6 +6,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="595df18d-ac42-458e-9625-e2356e4432f7"
+      targetConnections="4554a6d2-e0bb-44a7-b363-d35ca25c3dd4"
       textAlignment="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
@@ -141,7 +142,7 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="f0aefd5f-9013-4bbd-89b6-e9353a957689"
-      targetConnections="4202c70b-6148-4d93-984e-869d5ff85d7c 28aa954e-f5e5-4f0b-aad0-32252606ee31 d0bd23d9-ab64-40ae-9d2e-524936e3710a 7bf2c7c6-c3f6-4aae-9d5b-33a176dc83ae b526bbcf-59fb-4a63-979c-bbe3e6deae4c 4e42f2ce-3920-4f59-8955-34d3d323d2a4 e3c23bdd-1e04-4e42-93ee-ba33981967ec">
+      targetConnections="4202c70b-6148-4d93-984e-869d5ff85d7c 28aa954e-f5e5-4f0b-aad0-32252606ee31 d0bd23d9-ab64-40ae-9d2e-524936e3710a 7bf2c7c6-c3f6-4aae-9d5b-33a176dc83ae b526bbcf-59fb-4a63-979c-bbe3e6deae4c 4e42f2ce-3920-4f59-8955-34d3d323d2a4 e3c23bdd-1e04-4e42-93ee-ba33981967ec 95502eb9-56b9-47e8-b38c-a5e9c273d32d">
     <bounds
         x="372"
         y="372"
@@ -193,7 +194,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="ad501869-db50-4595-8134-31541774d714"
-        targetConnections="63ccd902-e56a-42b5-8348-f6ed179876f2">
+        targetConnections="63ccd902-e56a-42b5-8348-f6ed179876f2 3e2f3e13-f282-4601-8698-c9db0b1e7012">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="28aa954e-f5e5-4f0b-aad0-32252606ee31"
@@ -338,7 +339,7 @@
     <children
         xsi:type="archimate:DiagramModelArchimateObject"
         id="8e339edc-4980-4bd3-b575-fdf2ad322d38"
-        targetConnections="d6fb169f-e898-426b-b061-73df6f5c7336"
+        targetConnections="d6fb169f-e898-426b-b061-73df6f5c7336 f6500f83-46dc-4c62-9c84-288c6678a725"
         lineColor="#0000ff">
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
@@ -388,14 +389,15 @@
           source="16def07d-b6a0-4b15-af14-dc6fa1e05fe2"
           target="dce390df-a096-4e81-874e-a8df2ac9e2c0">
         <bendpoints
-            startX="36"
-            startY="69"
-            endX="-174"
-            endY="-48"/>
+            startX="84"
+            startY="-3"
+            endX="-126"
+            endY="-120"/>
         <bendpoints
-            startX="36"
-            startY="117"
-            endX="-174"/>
+            startX="84"
+            startY="105"
+            endX="-126"
+            endY="-12"/>
         <archimateRelationship
             xsi:type="archimate:ServingRelationship"
             href="ServingRelationship_714c12f9-6abc-42e3-b048-23852732399e.xml#714c12f9-6abc-42e3-b048-23852732399e"/>
@@ -426,6 +428,7 @@
       <sourceConnections
           xsi:type="archimate:DiagramModelArchimateConnection"
           id="d269de5a-62d4-4437-b5b9-f9e0cdf026a9"
+          lineColor="#ff8000"
           source="6cb94e95-b3e0-4fe3-a6ed-fa29bd7381f2"
           target="dc3c5bc4-2148-40b2-974c-f54da352d873">
         <archimateRelationship
@@ -439,14 +442,19 @@
           source="6cb94e95-b3e0-4fe3-a6ed-fa29bd7381f2"
           target="a562479f-f630-44ad-8d3d-dbeb3512a4cb">
         <bendpoints
-            startX="169"
+            startX="133"
             startY="-10"
-            endX="-60"
+            endX="-96"
             endY="-171"/>
         <bendpoints
-            startX="169"
+            startX="133"
+            startY="38"
+            endX="-96"
+            endY="-123"/>
+        <bendpoints
+            startX="133"
             startY="98"
-            endX="-60"
+            endX="-96"
             endY="-63"/>
         <bendpoints
             startX="229"
@@ -474,8 +482,8 @@
       id="0b8fbce2-5375-4824-abbd-5d2be1849c7b"
       targetConnections="b2978cb6-fd10-411f-8e06-0f003927e740">
     <bounds
-        x="894"
-        y="217"
+        x="936"
+        y="216"
         width="120"
         height="72"/>
     <archimateElement
@@ -487,8 +495,8 @@
       id="51d1211e-db11-4956-be31-8dcc1b8269a5"
       targetConnections="3971e85a-5835-41ff-b573-f6caa5a42da4">
     <bounds
-        x="894"
-        y="348"
+        x="936"
+        y="360"
         width="120"
         height="72"/>
     <archimateElement
@@ -500,7 +508,7 @@
       id="a0596395-4189-406b-a2e8-1042e111021d"
       targetConnections="f2108a6b-f9d8-485f-b207-324370c05e53">
     <bounds
-        x="894"
+        x="936"
         y="480"
         width="120"
         height="72"/>
@@ -513,7 +521,7 @@
       id="dce390df-a096-4e81-874e-a8df2ac9e2c0"
       targetConnections="1f2a5dc0-b632-4697-902b-ca7c7b561581">
     <bounds
-        x="894"
+        x="936"
         y="600"
         width="120"
         height="72"/>
@@ -591,7 +599,7 @@
       xsi:type="archimate:DiagramModelNote"
       id="e4471504-ce5f-455e-bfc5-6631406433a0"
       textAlignment="1"
-      content="In una seconda fase API Connect assolve anche questo ruolo">
+      content="In una seconda fase API Connect assolve anche questo ruolo. L'intervento si inserisce, dunque, nella roadmap di evoluzione">
     <sourceConnections
         id="b0d8da6e-f1d5-448e-938c-5595aec6960f"
         source="e4471504-ce5f-455e-bfc5-6631406433a0"
@@ -599,7 +607,75 @@
     <bounds
         x="348"
         y="732"
-        width="120"
-        height="80"/>
+        width="133"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="61fb37cf-35c3-403e-a08c-fc5753fd89ff"
+      textAlignment="1"
+      content="Il veccio SDP a causa della osolescenza del Middleware non può in alcun modo adeguare il livello di sicurezza delle interconnessioni con i sistemi esterni ai livelli oggi richiesti">
+    <sourceConnections
+        id="4554a6d2-e0bb-44a7-b363-d35ca25c3dd4"
+        source="61fb37cf-35c3-403e-a08c-fc5753fd89ff"
+        target="595df18d-ac42-458e-9625-e2356e4432f7">
+      <bendpoints
+          startX="-211"
+          startY="1"
+          endX="-30"
+          endY="-324"/>
+    </sourceConnections>
+    <bounds
+        x="242"
+        y="36"
+        width="226"
+        height="95"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b4f4861b-e9c1-4578-a184-6dc7a42bd89c"
+      textAlignment="1"
+      content="Una struttura basata su APIC potrebbe funzionare da scudo  esponendi all'esterno endpoint correttamente cifrati ma ruotando all'interno le connessioni in cifratura vecchia ma compatibile con SDP 1.0">
+    <sourceConnections
+        id="95502eb9-56b9-47e8-b38c-a5e9c273d32d"
+        source="b4f4861b-e9c1-4578-a184-6dc7a42bd89c"
+        target="f0aefd5f-9013-4bbd-89b6-e9353a957689"/>
+    <bounds
+        x="516"
+        y="120"
+        width="185"
+        height="121"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="ec63dfa4-2e43-4108-8fde-3325b62e4519"
+      textAlignment="1"
+      content="Canali HTTP (WSDL o GET/POST)">
+    <sourceConnections
+        id="3e2f3e13-f282-4601-8698-c9db0b1e7012"
+        source="ec63dfa4-2e43-4108-8fde-3325b62e4519"
+        target="ad501869-db50-4595-8134-31541774d714"/>
+    <bounds
+        x="720"
+        y="165"
+        width="185"
+        height="31"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelNote"
+      id="b4f6df6c-3190-4b6e-8ec0-17cd0dd00767"
+      font="1|Segoe UI|8.830189|1|WINDOWS|1|-13|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
+      fontColor="#ff0000"
+      textAlignment="1"
+      content="Socket IP con incapsulato il traffico CTG ??????">
+    <sourceConnections
+        id="f6500f83-46dc-4c62-9c84-288c6678a725"
+        source="b4f6df6c-3190-4b6e-8ec0-17cd0dd00767"
+        target="8e339edc-4980-4bd3-b575-fdf2ad322d38"/>
+    <bounds
+        x="932"
+        y="734"
+        width="185"
+        height="47"/>
   </children>
 </archimate:ArchimateDiagramModel>

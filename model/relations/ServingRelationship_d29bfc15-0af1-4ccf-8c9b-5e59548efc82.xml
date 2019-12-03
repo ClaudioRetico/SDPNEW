@@ -1,6 +1,7 @@
 <archimate:ServingRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="High Encryption"
     id="d29bfc15-0af1-4ccf-8c9b-5e59548efc82">
   <source
       xsi:type="archimate:TechnologyInterface"
