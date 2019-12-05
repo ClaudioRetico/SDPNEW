@@ -1,0 +1,4 @@
+<archimate:Outcome
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="UNICA SOLUZIONE: Tentare di istallare la versione 9 CTG MA ciò richiede di passare sulle LPAR CTG da AIX 6.1 ad AIX 7.2. Ulteriore problema occorre verifcare con una estesa serie di test che l'adattatore JCIA del WAS 6.1 sia compatibile con il CTG 9.2"
+    id="71705a2f-d275-4c2b-9972-97cb5dc80d55"/>

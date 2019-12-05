@@ -1,0 +1,12 @@
+<archimate:ServingRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Low Encription"
+    id="add5a75a-3fd1-4982-bc23-5a1b8fd14ae5">
+  <source
+      xsi:type="archimate:TechnologyInterface"
+      href="TechnologyInterface_ef16e73a-4567-405c-ac89-ca8491e75992.xml#ef16e73a-4567-405c-ac89-ca8491e75992"/>
+  <target
+      xsi:type="archimate:Node"
+      href="Node_d50e93cd-06df-40ff-8633-b033d88a1359.xml#d50e93cd-06df-40ff-8633-b033d88a1359"/>
+</archimate:ServingRelationship>

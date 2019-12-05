@@ -538,9 +538,21 @@
         </sourceConnections>
         <bounds
             x="36"
-            y="72"
+            y="60"
             width="181"
-            height="37"/>
+            height="61"/>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="3674c939-c371-458f-83f2-8ff18e3a56f1">
+          <bounds
+              x="36"
+              y="24"
+              width="120"
+              height="25"/>
+          <archimateElement
+              xsi:type="archimate:ApplicationService"
+              href="ApplicationService_f66fa1b2-f930-40f6-8810-f827d671e9ab.xml#f66fa1b2-f930-40f6-8810-f827d671e9ab"/>
+        </children>
         <archimateElement
             xsi:type="archimate:BusinessCollaboration"
             href="BusinessCollaboration_3f2ce13b-6895-468f-b63e-472e59d1308e.xml#3f2ce13b-6895-468f-b63e-472e59d1308e"/>
@@ -578,9 +590,21 @@
         </sourceConnections>
         <bounds
             x="228"
-            y="72"
+            y="60"
             width="181"
-            height="37"/>
+            height="61"/>
+        <children
+            xsi:type="archimate:DiagramModelArchimateObject"
+            id="585c9197-6eca-48bc-9873-93a484c69690">
+          <bounds
+              x="24"
+              y="24"
+              width="120"
+              height="25"/>
+          <archimateElement
+              xsi:type="archimate:ApplicationService"
+              href="ApplicationService_7df20fe6-3095-40c3-9445-14a242bf8016.xml#7df20fe6-3095-40c3-9445-14a242bf8016"/>
+        </children>
         <archimateElement
             xsi:type="archimate:BusinessCollaboration"
             href="BusinessCollaboration_f17dc767-ab36-49db-b20a-7d0e2e8e83ec.xml#f17dc767-ab36-49db-b20a-7d0e2e8e83ec"/>
