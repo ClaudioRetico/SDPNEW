@@ -936,7 +936,7 @@
           </sourceConnections>
           <bounds
               x="24"
-              y="24"
+              y="48"
               width="120"
               height="31"/>
           <archimateElement
@@ -992,9 +992,9 @@
           </sourceConnections>
           <bounds
               x="24"
-              y="72"
+              y="84"
               width="120"
-              height="37"/>
+              height="25"/>
           <archimateElement
               xsi:type="archimate:BusinessFunction"
               href="BusinessFunction_9bcf01e6-ab06-43f8-95e4-8ff02b93d344.xml#9bcf01e6-ab06-43f8-95e4-8ff02b93d344"/>
